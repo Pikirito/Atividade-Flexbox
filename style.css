@@ -1,0 +1,18 @@
+
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.itens{
+    background-color: #c5c5c5;
+    height: 200px ;
+    width: 200px;
+    border-radius: 10px;
+    margin-top: 10px;
+   
+
+}
